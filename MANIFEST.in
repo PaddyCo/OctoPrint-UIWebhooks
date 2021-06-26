@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_uiwebhooks/templates *
+recursive-include octoprint_uiwebhooks/translations *
+recursive-include octoprint_uiwebhooks/static *
